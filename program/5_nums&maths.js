@@ -1,6 +1,6 @@
 // console.log(hundreds.toLocaleString("en-in"));
 
-// // maths *******************
+// // maths *************;
 const min = 10
 
 const max = 15
