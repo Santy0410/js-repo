@@ -25,3 +25,22 @@ console.log(Object.keys(tinderUser));
 console.log(Object.entries(tinderUser));
 
 console.log(tinderUser.hasOwnProperty("id"));
+
+const course = {
+    courseName: " js ",
+    price: " 1000",
+    instructor: "hitesh"
+}
+// destructure
+
+const {instructor: tutor} = course
+console.log(tutor)
+
+// api
+
+// {
+//     name : "santy"
+//     DOB : "4.10.2002"
+
+// }
+
